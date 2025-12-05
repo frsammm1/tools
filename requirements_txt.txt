@@ -1,0 +1,11 @@
+python-telegram-bot==21.0.1
+PyPDF2==3.0.1
+pdf2image==1.17.0
+PyMuPDF==1.24.0
+Pillow==10.2.0
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+numpy==1.26.4
+moviepy==1.0.3
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
